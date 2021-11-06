@@ -1,7 +1,6 @@
 import os, subprocess
 from rich.console import Console
 from rich.columns import Columns
-from rich.table import Table
 from rich.panel import Panel
 
 try:
