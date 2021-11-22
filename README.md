@@ -31,6 +31,15 @@ A simple music downloading app which doesn't require any API keys.
 ### And ofcourse the metadata :)
 <img height="540" src="https://raw.githubusercontent.com/insaiyancvk/pymusicdl/pymusicdl-termux/assets/metadata.jpeg" />
 
+## To fix the 'dislike_count' error:
+- Uninstall pafy and install from github repository.
+
+   (run the following command in command prompt)
+   
+   ``` pip uninstall pafy && pip install git+https://github.com/mps-youtube/pafy.git#egg=pafy ```
+
+---
+
 # Setup
 
 ## Installation and usage:
