@@ -36,7 +36,7 @@ A simple music downloading app which doesn't require any API keys.
 
    (run the following command in command prompt)
    
-   ``` pip uninstall pafy && pip install git+https://github.com/mps-youtube/pafy.git#egg=pafy ```
+   ``` pip uninstall pafy && pip install https://github.com/mps-youtube/pafy/archive/refs/heads/develop.zip```
 
 ---
 
